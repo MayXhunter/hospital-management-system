@@ -8,4 +8,4 @@
 ![348897835_258842516802183_9066956587414696239_n](https://github.com/MayXhunter/hospital-management-system/assets/118358729/914880bb-97e0-46be-997a-e9c631914a4c)
 ![348381208_208017275426932_6613485107102654721_n](https://github.com/MayXhunter/hospital-management-system/assets/118358729/315a24d0-dd73-4ba6-890f-792eb7c63cec)
 
-Note: postman collection file attached to files in master
+Note: postman collection file attached to files in master under the name : HospitalManagementSystemCollection.postman_collection.json
