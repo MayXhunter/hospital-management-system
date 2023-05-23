@@ -6,7 +6,7 @@
 3-	Patient
 4-	Doctor
 
-![UML class](https://github.com/MayXhunter/hospital-management-system/assets/118358729/d6044cdc-bc7f-4a69-bf4e-15911fce3250)
+![UML class (1)](https://github.com/MayXhunter/hospital-management-system/assets/118358729/330664ed-866b-4d0f-ab99-c6037f0de18a)
 
 
 UML class diagram was constructed using Lucidchart.
