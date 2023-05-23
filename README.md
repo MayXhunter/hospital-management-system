@@ -2,6 +2,7 @@
 
 ![UML class (1)](https://github.com/MayXhunter/hospital-management-system/assets/118358729/330664ed-866b-4d0f-ab99-c6037f0de18a)
 
+UML class diagram was constructed using Lucidchart. May Awadallah - 1192046 .
 
 ![348388725_3445807582302697_8318286046223829428_n](https://github.com/MayXhunter/hospital-management-system/assets/118358729/24b596de-dd51-4709-a596-afabc912d019)
 ![346110923_1294085351177327_8647320411183338075_n](https://github.com/MayXhunter/hospital-management-system/assets/118358729/e33ddb38-322d-4d02-87e8-35782f0cd592)
